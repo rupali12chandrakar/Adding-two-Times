@@ -33,3 +33,4 @@ int main()
 	cout<<"Total Time is: "<<hour<<" hours "<<minute<<" minutes "<<second<< " seconds";
 
 	return 0;
+}
